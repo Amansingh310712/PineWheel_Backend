@@ -1,0 +1,6 @@
+@PineWheel_Project_HostAddress = http://localhost:5219
+
+GET {{PineWheel_Project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
