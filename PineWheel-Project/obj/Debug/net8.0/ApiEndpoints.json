@@ -1,0 +1,105 @@
+[
+  {
+    "ContainingType": "PineWheel_Project.Controllers.HighlightsControl",
+    "Method": "GetHighlights",
+    "RelativePath": "api/HighlightsControl",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PineWheel_Project.Controllers.HighlightsControl",
+    "Method": "CreateHighlight",
+    "RelativePath": "api/HighlightsControl",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "highlight",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PineWheel_Project.Controllers.HighlightsControl",
+    "Method": "UpdateHighlight",
+    "RelativePath": "api/HighlightsControl/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "highlight",
+        "Type": "System.Object",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PineWheel_Project.Controllers.HighlightsControl",
+    "Method": "DeleteHighlight",
+    "RelativePath": "api/HighlightsControl/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PineWheel_Project.Controllers.LabelsControl",
+    "Method": "GetPages",
+    "RelativePath": "api/LabelsControl",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PineWheel_Project.Controllers.MenuController",
+    "Method": "GetMenu",
+    "RelativePath": "api/Menu",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PineWheel_Project.Controllers.PagesControl",
+    "Method": "GetPages",
+    "RelativePath": "api/PagesControl",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PineWheel_Project.Controllers.ReviewsControl",
+    "Method": "GetPages",
+    "RelativePath": "api/ReviewsControl",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\controllers\\highlightscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\controllers\\highlightscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\controllers\\pagescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\controllers\\pagescontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\controllers\\labelscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\controllers\\labelscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\modals\\highlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\modals\\highlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\modals\\pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\modals\\pages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\controllers\\reviewscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\controllers\\reviewscontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\modals\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\modals\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\modals\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\modals\\reviews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|c:\\users\\lenovo\\desktop\\pinewheel-project\\pinewheel-project\\pinewheel-project\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{805710D6-E746-46A9-9C1C-9A3DD4DA63E2}|PineWheel-Project\\PineWheel-Project.csproj|solutionrelative:pinewheel-project\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Labels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PineWheel-Project\\Modals\\Labels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HighlightsControl.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\HighlightsControl.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Controllers\\HighlightsControl.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\HighlightsControl.cs",
+              "RelativeToolTip": "PineWheel-Project\\Controllers\\HighlightsControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T10:54:31.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Highlights.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Highlights.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Modals\\Highlights.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Highlights.cs",
+              "RelativeToolTip": "PineWheel-Project\\Modals\\Highlights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T03:57:44.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PagesControl.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\PagesControl.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Controllers\\PagesControl.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\PagesControl.cs",
+              "RelativeToolTip": "PineWheel-Project\\Controllers\\PagesControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T09:23:37.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Program.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Program.cs",
+              "RelativeToolTip": "PineWheel-Project\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:40:53.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LabelsControl.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\LabelsControl.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Controllers\\LabelsControl.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\LabelsControl.cs",
+              "RelativeToolTip": "PineWheel-Project\\Controllers\\LabelsControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:16:13.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Helpers\\DbHelper.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Helpers\\DbHelper.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Helpers\\DbHelper.cs",
+              "RelativeToolTip": "PineWheel-Project\\Helpers\\DbHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:44:22.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pages.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Pages.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Modals\\Pages.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Pages.cs",
+              "RelativeToolTip": "PineWheel-Project\\Modals\\Pages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T03:58:00.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Menu.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Modals\\Menu.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Menu.cs",
+              "RelativeToolTip": "PineWheel-Project\\Modals\\Menu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:45:16.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Reviews.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Reviews.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Modals\\Reviews.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Reviews.cs",
+              "RelativeToolTip": "PineWheel-Project\\Modals\\Reviews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:06:42.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Labels.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Labels.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Modals\\Labels.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Modals\\Labels.cs",
+              "RelativeToolTip": "PineWheel-Project\\Modals\\Labels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:19:02.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewsControl.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\ReviewsControl.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Controllers\\ReviewsControl.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\ReviewsControl.cs",
+              "RelativeToolTip": "PineWheel-Project\\Controllers\\ReviewsControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T04:00:34.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "PineWheel-Project\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\Desktop\\PineWheel-Project\\PineWheel-Project\\PineWheel-Project\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "PineWheel-Project\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T04:44:50.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
